@@ -1,0 +1,6 @@
+{
+  "name": "Novenix",
+  "description": "Novenix Teknoloji Grubu resmi web portalı, Ar-Ge çözümleri ve hızlı iletişim Android uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

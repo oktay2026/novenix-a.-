@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Novenix</string>
+    <string name="tab_web">Web Portal</string>
+    <string name="tab_solutions">Çözümler</string>
+    <string name="tab_contact">İletişim</string>
+    <string name="nav_back">Geri</string>
+    <string name="nav_forward">İleri</string>
+    <string name="nav_refresh">Yenile</string>
+    <string name="nav_home">Ana Sayfa</string>
+    <string name="nav_share">Paylaş</string>
+    <string name="nav_bookmark">Yer İmlerine Ekle</string>
+    <string name="nav_remove_bookmark">Yer İminden Kaldır</string>
+    <string name="nav_more">Diğer Seçenekler</string>
+    <string name="menu_desktop_mode">Masaüstü Görünümü</string>
+    <string name="menu_open_browser">Tarayıcıda Aç</string>
+    <string name="menu_home">Ana Sayfaya Dön</string>
+    <string name="error_title">Bağlantı Kurulamadı</string>
+    <string name="error_subtitle">novenix.tech şu anda yüklenemiyor. İnternet bağlantınızı kontrol edip tekrar deneyebilirsiniz.</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="view_contact_info">İletişim Bilgilerini Gör</string>
+    <string name="hero_badge">NOVENIX TEKNOLOJİ GRUBU</string>
+    <string name="hero_title">Fikirleri Ürüne Dönüştüren Ar-Ge</string>
+    <string name="hero_subtitle">Çok katmanlı PCB tasarımı, gömülü sistemler, IoT ve akıllı otomasyon çözümleri.</string>
+    <string name="open_website">Web Sitesini Aç</string>
+    <string name="explore_on_web">Sitede İncele</string>
+    <string name="request_quote">Bilgi / Teklif Al</string>
+    <string name="saved_bookmarks">Kaydedilen Sayfalar</string>
+    <string name="contact_header">Novenix Merkez Ofis &amp; Ar-Ge</string>
+    <string name="contact_call">Hemen Ara</string>
+    <string name="contact_email">E-posta Gönder</string>
+    <string name="contact_map">Haritada Aç</string>
+    <string name="quick_inquiry_title">Hızlı İletişim Talebi</string>
+    <string name="quick_inquiry_subtitle">Konu ve mesajınızı seçerek doğrudan info@novenix.tech adresine e-posta taslağı oluşturun.</string>
+    <string name="inquiry_send">E-posta Uygulamasında Aç</string>
+    <string name="cd_hero_banner">Novenix elektronik Ar-Ge ve PCB tasarım görseli</string>
+</resources>
